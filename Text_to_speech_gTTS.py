@@ -1,3 +1,5 @@
+#This converter requires an internet connection and uses google translate API
+#for conversion of text to speech
 #Install the API in the terminal
 #pip install gTTS
 
